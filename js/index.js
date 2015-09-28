@@ -13,12 +13,7 @@ var jugadors = [
 	"nom": "Jorge",
 	"dorsal": 3,
 	"punts": -4
-	},
-	{
-	"nom": "Jesus",
-	"dorsal": 6,
-	"punts": 1
-	}	
+	}
 ]
 
 
